@@ -14,7 +14,9 @@
 									      "cat bug_report_structere.txt"
 
 Bug_report_texture:
+
 Summary:
+
 Project:
 Component:
 Version:
