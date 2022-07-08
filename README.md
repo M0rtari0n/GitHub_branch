@@ -9,23 +9,22 @@
 
 2. Запушить все ветки на внешний репозиторий - "git push --all"
 
-3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта = "> bug_report_structere.txt"
+3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта - "> bug_report_structere.txt"
 									      "vim bug_report_structere.txt"
 									      "cat bug_report_structere.txt"
 
-									       Bug_report_texture:
-
-									       Summary:
-									       Project:
-									       Component:
-									       Version:
-									       Severity:
-									       Priority:
-									       Status:
-									       Author:
-									       Assigned to:
-									       Description:
-									       Attachment:
+Bug_report_texture:
+Summary:
+Project:
+Component:
+Version:
+Severity:
+Priority:
+Status:
+Author:
+Assigned to:
+Description:
+Attachment:
 
 4. Запушить структуру багрепорта на внешний репозиторий - "git add ."
 									      "git commit -am "change bug_report_texture.txt""
