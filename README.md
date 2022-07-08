@@ -13,20 +13,19 @@
 									      "vim bug_report_structere.txt"
 									      "cat bug_report_structere.txt"
 
-Bug_report_texture:
+									       Bug_report_texture:
 
-Summary:
-
-Project:
-Component:
-Version:
-Severity:
-Priority:
-Status:
-Author:
-Assigned to:
-Description:
-Attachment:
+									       Summary:
+									       Project:
+									       Component:
+									       Version:
+									       Severity:
+									       Priority:
+									       Status:
+									       Author:
+									       Assigned to:
+									       Description:
+									       Attachment:
 
 4. Запушить структуру багрепорта на внешний репозиторий - "git add ."
 									      "git commit -am "change bug_report_texture.txt""
