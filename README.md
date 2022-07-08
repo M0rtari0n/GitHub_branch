@@ -27,16 +27,16 @@
 									       Description:
 									       Attachment:
 
-4. Запушить структуру багрепорта на внешний репозиторий ===================== "git add ."
+4. Запушить структуру багрепорта на внешний репозиторий - "git add ."
 									      "git commit -am "change bug_report_texture.txt""
 									      "git push -u origin bug_report"
 
-5. Вмержить ветку Bag Reports в Main ======================================== "git checkout main"
+5. Вмержить ветку Bag Reports в Main - "git checkout main"
 									      "git merge bug_report"
 
-6. Запушить main на внешний репозиторий. ==================================== "git push"
+6. Запушить main на внешний репозиторий. - "git push"
 
-7. В ветке CheckLists набросать структуру чек листа. ========================="git checkout checklist"
+7. В ветке CheckLists набросать структуру чек листа. -"git checkout checklist"
 									      "> checklist_structure.txt"
 									      "vim checklist_structure.txt"
 									      "cat checklist_structure.txt"
@@ -49,10 +49,10 @@
 
 
 
-8. Запушить структуру на внешний репозиторий ================================ "git add ."
+8. Запушить структуру на внешний репозиторий - "git add ."
 									      "git commit -am "change_checklist_structure"
 									      "git push -u origin checklist"
 
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main ====== "compare & pull request => create pull request => merge pull request => confirm merge"
 
-10. Синхронизировать Внешнюю и Локальную ветки Main ========================= "git pull"
+10. Синхронизировать Внешнюю и Локальную ветки Main - "git pull"
