@@ -1,13 +1,13 @@
 1. На локальном репозитории сделать ветки для:
 - Postman - "git branch Postman"
 - Jmeter - "git branch Jmeter"
-- CheckLists ================================================================ "git branch CheckList"
-- Bug_Report ================================================================ "git branch Bug_report"
-- SQL ======================================================================= "git branch SQL"
-- Charles =================================================================== "git branch Charles"
-- Mobile_testing ============================================================ "git branch Mobile_testing"
+- CheckLists - "git branch CheckList"
+- Bug_Report - "git branch Bug_report"
+- SQL - "git branch SQL"
+- Charles - "git branch Charles"
+- Mobile_testing - "git branch Mobile_testing"
 
-2. Запушить все ветки на внешний репозиторий ================================ "git push --all"
+2. Запушить все ветки на внешний репозиторий - "git push --all"
 
 3. В ветке Bag Reports сделать текстовый документ со структурой баг репорта = "> bug_report_structere.txt"
 									      "vim bug_report_structere.txt"
